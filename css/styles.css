@@ -29,6 +29,10 @@ p { margin-top: 0; }
 	font-family: 'Audiowide', cursive;
 }
 
+h1{
+	font-family: 'Audiowide', cursive;
+}
+
 .content {
 	text-align: left;
 	overflow: auto;
