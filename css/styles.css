@@ -72,6 +72,8 @@ h1{
 
 #first{
 	background-image: url("../images/zback.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .card {
