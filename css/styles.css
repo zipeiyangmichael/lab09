@@ -16,6 +16,14 @@ p, li {
 	padding: 5px;
 }
 
+.avatar h3 {
+	font-size: 150%;
+}
+
+.avatar p {
+	font-size: 140%;
+}
+
 /*	****************************************
 	Modules (reusable classes)
 	**************************************** */
@@ -79,6 +87,24 @@ h1,h2,h3{
 	text-align: center;
 	font-size: 120%;
 	font-family: 'Audiowide', cursive;
+}
+
+.article, .aside {
+	display: table-cell;
+}
+
+.article {
+	width: 80%;
+	padding-right: 15px;
+}
+
+.aside {
+	width: 20%;
+	vertical-align: center;
+}
+
+.aside img {
+	padding-bottom: 10px;
 }
 
 /*	****************************************
